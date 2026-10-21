@@ -60,7 +60,7 @@ CONNECTING TO THE GUI
 HEADLESS MODE
   filmcraft --project ~/projects/myvideo.fcproj
 
-More info: https://github.com/leancoderkavy/premiere-pro-mcp
+More info: https://github.com/glorybnat/filmcraft-mcp
 `);
   process.exit(0);
 }
